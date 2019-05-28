@@ -1,5 +1,5 @@
 # py_photo_rendering
-Photos are rendered by default to `full_size = 1200, 800` and `small_size = 200, 150`, and placed in full_size and small_ize folder.
+Photos are rendered by default to `full_size = 1200, 800` and `small_size = 200, 150`, and placed in full_size and small_size folder.
 
 ## Requirements
 Python as environment varibale. I'm using Python 3.7.3 on Linux.
